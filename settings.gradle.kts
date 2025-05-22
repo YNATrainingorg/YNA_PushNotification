@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "YNA_FCM_Training"
 include(":app")
+include(":dynamic_audio_player")

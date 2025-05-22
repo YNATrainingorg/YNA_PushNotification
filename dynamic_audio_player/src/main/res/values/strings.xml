@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dynamic_Audio_Player</string>
+    <string name="play_audio_file">Play Audio file</string>
+    <string name="pause_audio">Pause Audio</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
